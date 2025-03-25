@@ -8,6 +8,9 @@ Welcome to our website, where we take you through the vibrant, diverse, and ever
 
 Mumbai, formerly known as Bombay, is India's financial, entertainment, and cultural hub. With a population of over 20 million, it's one of the most densely populated cities in the world, yet it has a charm that continues to captivate people from all walks of life. The city's diversity, with people from different parts of the country and the world, brings a fusion of traditions, languages, and cuisines that shape its identity. 🌍
 
+## 🌍 Live Site
+Check out the live version of the website here: [🔗 Live Demo](https://mumbai-updated.vercel.app/)
+
 ⚡ **Technologies Used**:
 - HTML 📄
 - CSS 🎨
